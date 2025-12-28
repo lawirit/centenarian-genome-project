@@ -1,0 +1,6 @@
+snp_id,chromosome,position,allele,frequency,longevity_status
+rs123,1,1000,A,0.45,protective
+rs456,2,2000,T,0.33,neutral
+rs789,3,3000,G,0.12,risk
+rs101,4,4000,C,0.67,protective
+rs202,5,5000,A,0.22,risk
